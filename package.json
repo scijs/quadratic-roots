@@ -1,6 +1,6 @@
 {
   "name": "quadratic-roots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compute the real roots of a quadratic equation in a numerically stable manner",
   "main": "lib/index.js",
   "scripts": {

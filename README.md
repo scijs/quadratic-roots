@@ -1,6 +1,6 @@
 # quadratic-roots
 
-[![Build Status](https://travis-ci.org/scijs/quadratic-roots.svg?branch=1.0.0)](https://travis-ci.org/scijs/quadratic-roots) [![npm version](https://badge.fury.io/js/quadratic-roots.svg)](http://badge.fury.io/js/quadratic-roots)
+[![Build Status](https://travis-ci.org/scijs/quadratic-roots.svg?branch=1.0.0)](https://travis-ci.org/scijs/quadratic-roots) [![npm version](https://badge.fury.io/js/quadratic-roots.svg)](http://badge.fury.io/js/quadratic-roots) [![Dependency Status](https://david-dm.org/scijs/quadratic-roots.svg)](https://david-dm.org/scijs/quadratic-roots)
 
 
 Compute the real roots of a quadratic equation in a numerically stable manner
